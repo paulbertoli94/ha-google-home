@@ -11,7 +11,7 @@ packages = [{include = "google_home", from = "custom_components"}]
 python = ">=3.12,<3.13"
 glocaltokens = "^0.7.1"
 homeassistant = "2024.7.0"
-bluetooth-data-tools = "^1.19.3"
+bluetooth-data-tools = "1.19.3"
 mypy = "1.11"
 
 [tool.poetry.group.dev.dependencies]
